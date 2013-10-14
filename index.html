@@ -16,7 +16,7 @@
         mapOptions);
       var infowindow = null;
       $(document).ready(function() {
-        $.getJSON( "/jacket.json", function( data ) {
+        $.getJSON( "jacket.json", function( data ) {
           $.each(data, function(key, item) {
             var latlng = new google.maps.LatLng(item.lat,item.lng);
             var animation = (key === data.length - 1) ? google.maps.Animation.BOUNCE : google.maps.Animation.DROP;
