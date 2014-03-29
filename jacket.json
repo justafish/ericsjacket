@@ -110,5 +110,17 @@
         "lng": "-80.942496",
         "link": "https:\/\/twitter.com\/ejdquotes\/status\/427841442476998656",
         "image": "https:\/\/pbs.twimg.com\/media\/Be__hmqIAAIPGNM.jpg"
+    },
+    {
+        "title": "Austin, Texas",
+        "lat": "30.262223",
+        "lng": "-97.740531",
+        "link": "https:\/\/twitter.com\/ejdquotes\/status\/446644063790309376",
+        "image": "https:\/\/pbs.twimg.com\/media\/BjLMaNuCIAAUmmU.jpg"
+    },
+    {
+        "title": "Copenhagen, Denmark",
+        "lat": "55.678092",
+        "lng": "12.575173"
     }
 ]
